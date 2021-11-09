@@ -2,4 +2,5 @@
 
 Onboarding Screens 
 
-![Areeba Farooq on Behance](https://user-images.githubusercontent.com/41040479/140890360-97267871-394c-4cc9-a92e-8e0d525a4ffd.png)
+![S21_Mockup_4_](https://user-images.githubusercontent.com/41040479/140891014-f6ab8c3c-e3f9-4760-a3e0-ac1b5dbe8391.png)
+
